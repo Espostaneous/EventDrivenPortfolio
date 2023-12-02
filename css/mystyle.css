@@ -8,3 +8,10 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
 }
+
+.EspoBackground{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
