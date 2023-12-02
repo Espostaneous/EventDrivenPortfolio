@@ -18,3 +18,12 @@
     background-size: 100% 100%;
     height: 100vh;
 }
+
+.EspoBackground2{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 100vh;
+}
